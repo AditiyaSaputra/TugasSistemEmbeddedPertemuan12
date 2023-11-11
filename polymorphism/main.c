@@ -1,7 +1,7 @@
 /*============================================================================
 * Nama  : Aditiya Saputra
 * NIM   : H1A021011
-* 
+* https://github.com/AditiyaSaputra/TugasSistemEmbeddedPertemuan12.git
 ============================================================================*/
 #include "rect.h"   /* Rectangle class interface */
 #include "circle.h" /* Circle class interface */
